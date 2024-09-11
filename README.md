@@ -1,2 +1,5 @@
 # AIPI590_Assignment2
-Repository for creating an adversarial patch. 
+This is a repository for creating an adversarial patch. 
+
+### Important documents include:
+- 
